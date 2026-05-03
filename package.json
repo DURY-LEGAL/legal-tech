@@ -1,0 +1,24 @@
+{
+  "name": "legal-tech",
+  "version": "0.1.0",
+  "description": "Legal Tech framework - Tools for legal technology and law firm automation. Powered by DURY LEGAL.",
+  "keywords": [
+    "legal-tech",
+    "legaltech",
+    "automation",
+    "law",
+    "legal",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/legal-tech.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
